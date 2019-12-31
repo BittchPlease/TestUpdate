@@ -1,1 +1,15 @@
-{ "title": "zFont_Update_", "message": "03/10/2019 [2.1.7]\n- Support install font with root!\n- Now you can create font module zip for magisk,twrp!\n- All of these new features only for Myanmar users.\n\n04/10/2019 [2.1.8]\n- Remove donate menu\n- Remove update app from outside", "download": "", "playstore": "com.mgngoe.zfont", "uninstall": false, "what": { "model": [], "version": [], "all": true }, "versionName": "2.1.8", "versionCode": 24, "force": true }
+{
+  "title": "This is Title!",
+  "message": "This is Message",
+  "download": "Direct APK Download Link!!!",
+  "playstore": "com.mgngoe.zfont",
+  "uninstall": false,
+  "what": {
+    "model": [],
+    "version": [],
+    "all": true
+  },
+  "versionName": "1.7",
+  "versionCode": 8,
+  "force": true
+}
